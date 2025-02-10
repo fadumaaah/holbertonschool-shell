@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -lnA | sort -k 3,3n -k 4,4n
+ls -a -l -n
